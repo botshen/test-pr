@@ -1,0 +1,10 @@
+# 包管理器锁文件
+bun.lockb linguist-generated
+pnpm-lock.yaml  linguist-generated
+
+# 自动生成的文件和目录
+vendor/**/*     linguist-generated
+*.gen.html      linguist-generated
+
+# Bun 特定文件
+node_modules/**/* linguist-generated
